@@ -69,3 +69,5 @@ spec:
 
 
 ```
+[ref](https://github.com/brthor/docker-dind-sshd)
+
